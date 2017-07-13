@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HandsHeadsTest</string>
+    <string name="create">Создать</string>
+    <string name="sign_in">Авторизация</string>
+    <string name="email">Электронная почта</string>
+    <string name="password">Пароль</string>
+    <string name="no_internet">Проверьте подключение к интернету</string>
+    <string name="response_error">Ошибка при получении погоды</string>
+    <string name="text_temp">Температура в Москве: %1$s C</string>
+    <string name="field_is_required">Поле не может быть пустым!</string>
+    <string name="invalid_email">Неверный Email</string>
+    <string name="error_length_password">Проверьте длину пароля!</string>
+    <string name="enter">Войти</string>
+    <string name="password_hint">Пароль - минимум 6 символов, должен обязательно содержать минимум 1 строчную букву, 1 заглавную, и 1 цифру</string>
+</resources>
